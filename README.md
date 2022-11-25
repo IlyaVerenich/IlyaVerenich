@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlyaVerenich
-- 👀 I’m interested in Front-End (React+Redux)
-- 🌱 I’m currently learning FrontEnd
+- 👀 I’m interested in Front-End (React+Redux) and Backend (Node + Express + Nest)
+- 🌱 I’m currently learning Backend
 - 📫 How to reach me  ilyaviarenich02@gmail.com
 
 <!---
